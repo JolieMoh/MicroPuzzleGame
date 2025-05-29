@@ -1,5 +1,6 @@
 # The Pyxis
-![Screenshot 2025-04-30 092013](https://github.com/user-attachments/assets/babcb09a-726f-4b8b-94ca-f97373b40fc6)
+![Overview](https://github.com/user-attachments/assets/732c47ee-b050-4585-b0e9-505037992b8b)
+
 
 # About
 The Pyxis is a First-Person Puzzle, Sci-Fi game developed by me. Produced by Griffith University. Currently, the game is just a micro experience of what's to come.
